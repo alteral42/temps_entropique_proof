@@ -12,6 +12,7 @@ formulée par l'auteur sous le pseudonyme **Alt**.
 ## Empreinte cryptographique (SHA-256)
 
 Archive : `temps_entropique_initial_commit.zip`
+
 hash : fa7fad713069ba0adfc07c8aae18fc66cfef8f783b2bdbcf0f27064d37d41c48
 
 Générée à partir de l’état exact du dépôt privé à son premier commit.
