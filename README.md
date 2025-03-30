@@ -1,15 +1,14 @@
-# Proof of authorship – Theory of Entropic Time
+# Preuve d'antériorité – Théorie du temps entropique
 
-This repository contains a public proof of authorship and originality  
-for the theory of **entropic time**, formulated by the author under the pseudonym:
+Ce dépôt contient la preuve publique d'antériorité pour la théorie du **temps entropique**,  
+formulée par l'auteur sous le pseudonyme **Alt**.
 
-**Alt**
+## Dates clés
 
-Original idea: March 25, 2025  
-First private commit: March 30, 2025  
-Proof hash published: March 30, 2025
+- Idée originale : 25 mars 2025
+- Premier commit privé : 30 mars 2025
+- Publication du hash de preuve : 31 mars 2025
 
-## Archive hash (SHA-256)
+## Empreinte cryptographique (SHA-256)
 
-The following hash corresponds to a `.zip` archive of the initial private commit,  
-containing the original formulation and 4 foundational mathematical notes.
+Archive : `temps_entropique_initial_commit.zip`
