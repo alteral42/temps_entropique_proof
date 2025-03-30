@@ -1,0 +1,2 @@
+SHA-256: fa7fad713069ba0adfc07c8aae18fc66cfef8f783b2bdbcf0f27064d37d41c48
+Generated: 2025-03-30 by Alt (Antoine LETIENNE)
